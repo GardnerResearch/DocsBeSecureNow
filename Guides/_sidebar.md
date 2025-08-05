@@ -1,0 +1,5 @@
+* [Home](/)
+* [Guide](/Guides/Guide.md)
+    * [Account and Password](/Guides/AccountsAndPassword.md)
+    * [Devices and Software](/Guides/DevicesAndSoftware.md)
+    * [Others](/Guides/Others.md)

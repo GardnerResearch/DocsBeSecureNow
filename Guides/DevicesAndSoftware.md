@@ -1,26 +1,26 @@
-## Device and Software
+# Device and Software
 
 Your devices are your gateway to the digital world; keep them locked down.
 
-### Keep Software Updated
+## Keep Software Updated
 
 - **Patching vulnerabilities:** Software updates often include security patches that fix newly discovered weaknesses hackers could exploit.
 - **Automate if possible:** Set your operating system (Windows, macOS, iOS, Android) and applications to update automatically whenever feasible. If not, make it a habit to check for and install updates regularly.
 
-### Use Antivirus
+## Use Antivirus
 
 - **For Windows users:** Windows Defender, built into Windows, offers a decent baseline of protection, it is okay to consider a third-party solution for enhanced security.
 - **Essential protection:** Reputable antivirus software (like **Bitdefender**, **Norton**, or **Kaspersky**) can detect and remove malicious software before it causes harm.
 - **Keep it active and updated:** Ensure your antivirus is always running in the background and its definitions are kept up-to-date.
 
 
-### Secure Your Wi-Fi Network
+## Secure Your Wi-Fi Network
 
 - **Password protect:** Always use a strong, unique password for your home Wi-Fi network.
 - **WPA2/WPA3 encryption:** Ensure your router is using WPA2 or, even better, WPA3 encryption. Avoid older, less secure protocols like WEP or WPA.
 - **Change default credentials:** If you haven't already, change the default administrator username and password for your router, network devices (i.e. storage, IP camera, IoT)
 
-#### Location Services: Control Your Digital Footprint
+### Location Services: Control Your Digital Footprint
 
 Location services allow apps to access your device's GPS. While convenient, unchecked access can expose more information than you intend to tech companies, or publicly through geotagged social media posts.
 
@@ -44,7 +44,7 @@ Location services allow apps to access your device's GPS. While convenient, unch
 - **Personalize Settings:** Explore the full range of options in Location Services to balance convenience with your desired level of privacy.
     
 
-#### Access to Contacts: Guard Your Network
+### Access to Contacts: Guard Your Network
 
 Many apps request access to your contacts, often more than is necessary. This is primarily a privacy concern, but it can have unexpected consequences.
 
@@ -61,7 +61,7 @@ Many apps request access to your contacts, often more than is necessary. This is
 - Review and remove contact access for any apps that don't genuinely need it. It's a personal preference, but often, less access is more secure.
 
 
-#### Limit Ad Tracking: Enhance Your Privacy
+### Limit Ad Tracking: Enhance Your Privacy
 
 This setting helps reduce the amount of personal data collected for targeted advertising.
 
@@ -72,7 +72,7 @@ This setting helps reduce the amount of personal data collected for targeted adv
     - **Android:** Go to **Settings > Google > Ads** and enable "Opt out of Ads Personalization." You may also see an option to "Reset advertising ID" which can provide an additional layer of privacy.
 
 
-#### Data Accessible Outside the Lock Screen: Control Public Visibility
+### Data Accessible Outside the Lock Screen: Control Public Visibility
 
 Take a moment to decide what information is visible when your phone is locked.
 
@@ -91,16 +91,4 @@ Take a moment to decide what information is visible when your phone is locked.
         - To change for individual apps: Go to **Settings > Notifications > App notifications**, select the app, and adjust its lock screen notification settings.
 
 By actively managing these settings, you can tailor your phone's privacy to your comfort level, ensuring your personal data remains as secure as you desire, whether you're on an Android or iOS device.
-
-## Mobile
-
-### Passcode Best Practices
-To safeguard your personal data, ensure you have a strong passcode enabled. Choose a code that is **at least six characters long** and avoids simple, repetitive, or sequential patterns (e.g., "111111" or "123456"). Configure your phone to **require the passcode immediately** after you lock it, minimizing any window of vulnerability. 
-
-### Biometric Authentication
-While convenient,  Biometric (Fingerprint reader/ Facial Recognition) presents potential security risks compared to a passcode. Unlike a passcode, your fingerprint can be **legally compelled by law enforcement** in the U.S. and can also be used to unlock your phone if you're **unconscious or incapacitated**. Consider these trade-offs between convenience and security when deciding whether to use biometrics.
-
-### Privacy Concerns
-
-Your smartphone holds a wealth of personal information. Taking a moment to adjust some key privacy settings can significantly reduce your digital footprint and protect sensitive data.
 

@@ -4,5 +4,5 @@
 
 > Simple guide to be cyber secure.
 
-[About](/About/BeSecureNow)
-[Start here!](#headline)
+[Help me](/Help/Help.md)
+[Start here!](#besecurenoworg)

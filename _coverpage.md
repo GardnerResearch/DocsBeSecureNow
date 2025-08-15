@@ -1,8 +1,9 @@
 ![logo](Asset/logo.png)
 
-# BeSecureNow<small>.org</small>
+# BeSecure<small>.fyi</small>
 
-> Simple guide to be cyber secure.
+> Simple guides to be secure :lock:
 
-[Help me](/Help/Help.md)
-[Start here!](#besecurenoworg)
+[Start here!](/#besecure)
+[Help](/Help/Help.md)
+[Access the guides](/Guides/Guide.md)

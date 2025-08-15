@@ -1,4 +1,4 @@
-* [Home](/#besecurenoworg)
+* [Home](/)
 * [Guides](/Guides/Guide.md)
     * [Mobile](/Guides/Mobile.md)
     * [Account](/Guides/Account.md)

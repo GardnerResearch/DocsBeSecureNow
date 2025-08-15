@@ -1,7 +1,7 @@
 * [Home](/)
 * [Guides](/Guides/Guide.md)
     * [Mobile](/Guides/Mobile.md)
-    * [Account](/Guides/Account.md)
+    * [Accounts](/Guides/Accounts.md)
     * [Password](/Guides/Password.md)
     * [Devices and Software](/Guides/DevicesAndSoftware.md)
     * [Others](/Guides/Others.md)

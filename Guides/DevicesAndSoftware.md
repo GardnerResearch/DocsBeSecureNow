@@ -34,7 +34,6 @@ Location services allow apps to access your device's GPS. While convenient, unch
 
 - **Review App Access:**
     - **iOS:** Go to **Settings > Privacy & Security > Location Services**.
-
     - **Android:** Go to **Settings > Location > App location permissions** (or similar, depending on your Android version/manufacturer overlay). You may also long-press an app icon, tap "App info," then "Permissions."
 
 - **Limit "Always" Access:** Very few apps truly need "Always" access. Most function perfectly well with "While Using the App" (iOS) or "Allow only while using the app" (Android). For Android, you may also see "Ask every time."

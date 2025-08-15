@@ -73,8 +73,7 @@ Clearing out old, unused apps is simple and improves security and storage.
 1. Open the Google Play Store app.
 2. Tap your profile icon at the top right.
 3. Tap Manage apps & devices, then select the Manage tab.
-
-You'll see a list of all your installed apps. Select the app you want to delete and tap Uninstall.
+4. You'll see a list of all your installed apps. Select the app you want to delete and tap Uninstall.
 
 ---
 

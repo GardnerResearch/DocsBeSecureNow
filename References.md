@@ -6,3 +6,5 @@
 [bitdefender essential guide to mobile](https://www.bitdefender.com/en-us/blog/hotforsecurity/essential-guide-to-mobile-and-security)
 
 [An In-Depth Guide to Personal Cybersecurity](https://medium.com/@nickrosener/an-in-depth-guide-to-personal-cybersecurity-be98ba47c968)
+
+[Avast facebook setting](https://www.avast.com/c-change-facebook-privacy-settings)

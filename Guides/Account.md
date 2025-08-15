@@ -6,6 +6,7 @@
 It's no secret that social media is a huge part of our lives, with **69% of US adults using at least one social media site**, according to Pew Research. Because of this widespread use, many people tend to overlook the potential risks involved. There's also significant social pressure to participate.
 
 However, you _can_ balance active participation with strong security by understanding the risks and configuring your privacy settings. Below, I'll outline common social media risks and provide tips for securing your accounts on various platforms.
+
 ### Common Risks
 
 #### Everything Can Become Public
@@ -41,9 +42,7 @@ If your work requires confidentiality, be extremely vigilant. **Ensure your pers
 #### Facebook
 
 **Prioritize strong password practices** for Facebook and all other social networks. You can find security and login settings under **Settings > Security and Login**.
-
 **Review every settings page** to ensure your privacy expectations are met. Here are a few specific recommendations:
-
 - **Restrict past posts:** Consider limiting the visibility of your past posts to friends using the "**Limit Past Posts**" option, especially if you set your current posts to "Friends only."
 - **Audit business page access:** If you have admin access to business pages you're no longer involved with, **remove yourself** to eliminate potential security vulnerabilities for those pages.
 

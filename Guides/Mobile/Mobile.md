@@ -1,12 +1,12 @@
 # Mobile
 
-> To keep your phone safe, use a strong passcode (at least six characters) and set your phone to lock instantly. Be careful with apps: only download them from official app stores, delete any you don't use, and always install updates for both your apps and your phone's software to fix security weaknesses.
+To keep your phone safe, use a strong passcode (at least six characters) and set your phone to lock instantly. Be careful with apps: only download them from official app stores, delete any you don't use, and always install updates for both your apps and your phone's software to fix security weaknesses.
 
 # Passcode Best Practices
 
 To safeguard your personal data, ensure you have a strong passcode enabled. Choose a code that is **at least six characters long** and avoids simple, repetitive, or sequential patterns (e.g., "111111" or "123456"). Configure your phone to **require the passcode immediately** after you lock it, minimizing any window of vulnerability. 
 
-## How to set a stronger passcode on iOS (iPhone) 🍎 
+## Change passcode on iOS (iPhone) 🍎 
 1. Go to Settings and tap on Face ID & Passcode (or Touch ID & Passcode on older devices).
 2. Enter your current passcode.
 3. Tap Change Passcode. You'll have to enter your old one again.
@@ -15,7 +15,7 @@ To safeguard your personal data, ensure you have a strong passcode enabled. Choo
 6. You can also choose Custom Numeric Code to create a PIN with more than six digits, which is still a significant improvement over the standard six-digit PIN.
 7. Pro-tip: For extra security, set your phone to require the passcode immediately after you lock it. You can usually find this setting in the same Face ID & Passcode menu.
 
-## How to set a stronger passcode on Android 🤖
+## Change passcode on Android 🤖
 1. Go to your phone's Settings and tap on Security or Lock screen and security.
 2. Tap on Screen lock type.
 3. You'll be able to choose from a few options: PIN, Pattern, or Password.

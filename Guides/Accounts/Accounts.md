@@ -42,6 +42,9 @@ One of the simplest yet most powerful steps you can take is to turn on two-facto
 Here's how it works: when you try to log in from a new device, Facebook sends a code to your phone. You need both your password and that code to get in. The setting to set this up, is in your Settings & Privacy menu.
 
 **How to Turn on 2FA on Facebook**
+
+!>Read [here](/Guides/Accounts/2FA.md) about 2FA
+
 1. Go to Settings: Log in to your Facebook account. Click on the menu icon (your profile picture or three horizontal lines) in the top-right corner.
 2. Find Security: In the dropdown menu, select Settings & Privacy, then click Settings. Look for Security and Login in the left-hand menu.
 3. Choose 2FA: Scroll down and find Use two-factor authentication. Click on it to get started.
@@ -128,6 +131,9 @@ How to Control Your Instagram Story Privacy
 - Allow sharing to messages: You can also turn this off to prevent people from sharing your stories in private messages.
 
 ## Two-Factor Authentication
+
+!>Read [here](/Guides/Accounts/2FA.md) about 2FA
+
 Turning on two-factor authentication (2FA) is one of the most important steps you can take to secure your Instagram account. It adds an extra layer of protection, making it much harder for someone to hack you even if they have your password.
 
 **How to enable 2FA on Instagram**
@@ -196,5 +202,7 @@ There's no save button. As you make changes, the settings are automatically appl
 ## Control contact visibility: 
 Decide whether your contacts can be viewed by the public, your network, or only you. I suggest restricting this to "only you" to **reduce unsolicited sales and marketing attempts** targeting your connections.
 
-## Enable 2-step verification
+## Enable 2FA
 Don't miss this crucial security feature, even though it's somewhat hidden at the bottom of the **Privacy** section.
+
+!>Read [here](/Guides/Accounts/2FA.md) about 2FA

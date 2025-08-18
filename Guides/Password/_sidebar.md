@@ -3,6 +3,7 @@
     * [Mobile](/Guides/Mobile/Mobile.md)
     * [Accounts](/Guides/Accounts/Accounts.md#accounts-social-media-email)
     * [Password](/Guides/Password/Password.md)
+        * [About Password Manager](/Guides/Password/PasswordManager.md#about-password-manager)
     * [Devices and Software](/Guides/Devices/DevicesAndSoftware.md)
     * [Others](/Guides/Others.md)
 * [References](References.md)

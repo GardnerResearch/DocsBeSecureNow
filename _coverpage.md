@@ -6,4 +6,3 @@
 
 [Start here!](/#besecure)
 [Help](/Help/Help.md)
-[Access the guides](/Guides/Guide.md)

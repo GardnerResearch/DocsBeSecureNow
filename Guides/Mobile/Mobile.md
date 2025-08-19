@@ -79,7 +79,44 @@ Clearing out old, unused apps is simple and improves security and storage.
 
 # Privacy Concerns
 
-Your smartphone holds a wealth of personal information. Taking a moment to adjust some key privacy settings can significantly reduce your digital footprint and protect sensitive data.
+Your smartphone holds a wealth of personal information. Taking a moment to adjust some key privacy settings can significantly reduce your digital footprint and protect sensitive data. 
+As you go through the lists of recommendation below, you might've noticed that there is a lot of similar and overlapping topics within privacy and security. To help you make a better distinction between the two, here's a helpful explanation:
+
+**Security** is about protecting your data from unauthorized access, theft, or damage. Think of it as a strong lock on a door.
+
+**Privacy** is about controlling who can see your information and how it is used. This is more about who you give the key to and what they do with it.
+
+
+## Manage App Permissions and Data Collection
+- Review and Revoke Permissions: Go through your phone's settings and look at the permissions each app has. Do you really want that flashlight app to have access to your contacts or location? Be ruthless and revoke any permissions that seem unnecessary.
+
+- Opt Out of App Tracking (iOS): On iPhones, you can tell apps not to track your activity across other apps and websites. This is a powerful privacy feature that limits how companies build a profile on you for advertising.
+
+- Understand App Privacy Policies: Before you download a new app, especially a free one, take a moment to understand its privacy policy. Does it collect and sell your data? If so, you may want to reconsider.
+
+- Be Mindful of Location Services: Many apps and features need your location to work, but you can choose to grant access "only while using the app." This prevents them from tracking your whereabouts in the background.
+
+## Limit Data Sharing
+- Check Privacy Settings on Social Media: Many social media apps on your phone have their own in-app privacy settings. Limit who can see your posts, photos, and personal information.
+
+- Disable Ad Personalization: Both Android and iOS have settings to disable personalized ads. While you will still see ads, they will not be based on your personal information and browsing habits.
+
+- Use a Privacy-Focused Browser: The default browsers on your phone may not be the most privacy-friendly. Consider using an alternative browser like Firefox Focus or DuckDuckGo, which are designed to block trackers and erase your browsing history automatically.
+
+- Clear Your History and Cache: Regularly clear your browser history and cache to prevent websites from using cookies to track your activity.
+
+## Control Your Digital Footprint
+- Disable Voice Assistant Features: Voice assistants like Siri and Google Assistant are "always listening" for their wake words. You can often disable this feature or choose to manually activate the assistant to prevent background recording and data collection.
+
+- Limit Account Syncing: Check what data your phone is syncing to the cloud (e.g., Google or iCloud). You may not want your entire photo library, contact list, or call history to be stored and processed by a third party.
+
+## Mindful Usage Habits
+- Consider What You Store on Your Phone: Avoid storing highly sensitive information, like photos of your passport, social security number, or passwords, in your phone's notes or photo app.
+
+- Be Wary of Free Apps: Remember the saying, "If you're not paying for the product, you are the product." Many free apps collect and sell your data to make money.
+
+- Keep Phone in a Private Place: Be aware of who can see your screen when you're using your phone in public. Your digital privacy extends to your physical surroundings.
+
 
 ---
 

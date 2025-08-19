@@ -1,8 +1,8 @@
 # BeSecure
 
-> BeSecure.fyi is a purposefully simple guide to **be** cyber **secure**, **now**.
+> BeSecure.fyi is a *simple* guide to *be* cyber *secure*, *now*.
 
-See the guides [here](/Guides/Guide.md)
+Understand the risks [here](/RiskThreat/RiskThreat.md) or go directly to the guides [here](/Guides/Guide.md)
 
 # Really, what is this? :thinking:
 
@@ -22,7 +22,7 @@ We offer free cybersecurity consultations for residents in the Allston/Brighton 
 
 With more of our personal and professional information online, we face a higher risk of data breaches, identity theft, and financial loss. 
 
-We believe that a **simple, easy to follow** guide is something that can help you mitigate these risks.  
+We believe that a **simple and easy to follow** guide is something that can help you mitigate these risks.  
 
 # Who is behind this
 
@@ -30,4 +30,4 @@ We are a [research collective](https://gardnerresearch.org) based in Allston.
 
 # Convinced?
 
-See the guides [here](Guides/Guide.md)
+Understand the risks [here](/RiskThreat/RiskThreat.md) or see the guides [here](Guides/Guide.md)

@@ -1,93 +1,78 @@
-# Device and Software
+# Devices and Software
+Creating a comprehensive list of security tips for computers and software requires a two-pronged approach. Computers, as physical devices, have their own vulnerabilities, and the software you run on them introduces another layer of potential risk.
 
-Your devices are your gateway to the digital world; keep them locked down.
+Here are essential security tips for both computers and software, organized for clarity.
 
-## Keep Software Updated
+# Security Tips for Your Computer (The Hardware)
+These tips focus on protecting the physical device and the data stored on it.
 
-- **Patching vulnerabilities:** Software updates often include security patches that fix newly discovered weaknesses hackers could exploit.
-- **Automate if possible:** Set your operating system (Windows, macOS, iOS, Android) and applications to update automatically whenever feasible. If not, make it a habit to check for and install updates regularly.
+## Use Strong Passwords and Encryption
 
-## Use Antivirus
+User Account Password: Use a strong, unique password for your user account. Avoid common words or simple number sequences.
 
-- **For Windows users:** Windows Defender, built into Windows, offers a decent baseline of protection, it is okay to consider a third-party solution for enhanced security.
-- **Essential protection:** Reputable antivirus software (like **Bitdefender**, **Norton**, or **Kaspersky**) can detect and remove malicious software before it causes harm.
-- **Keep it active and updated:** Ensure your antivirus is always running in the background and its definitions are kept up-to-date.
+!> learn more about passwords [here](/Guides/Password/PasswordManager.md)
+
+Full-Disk Encryption (FDE): Enable FDE (e.g., BitLocker on Windows, FileVault on macOS, or a Linux equivalent). This scrambles all data on your hard drive, making it unreadable to anyone who doesn't have the key. It's your last line of defense if your computer is stolen.
+
+## Physical Security
+
+Lock It Up: When you're in a public place, use a physical computer lock (like a Kensington lock) to secure it to a fixed object.
+
+Don't Leave It Unattended: A thief can steal a computer in seconds. Never leave it alone in a cafe, library, or hotel lobby.
+
+Be Careful in Transit: When traveling, keep your computer in a bag that doesn't scream "expensive electronics inside."
+
+## Set Up Remote Wipe and Find My Device
+
+Windows and macOS: Both operating systems have built-in features (Find My Device on Windows and Find My Mac on macOS) that allow you to locate, lock, or erase your computer remotely if it's lost or stolen. Make sure this is enabled and configured correctly.
+
+## Manage External Devices
+
+Be Cautious with USB Drives: Don't plug a **random USB** stick you found into your computer. It could contain malware designed to infect your system.
+
+Lock It Down: Configure your operating system to prevent auto-running of external devices to stop potential infections before they start.
+
+# Security Tips for Your Software (The Digital Layer)
+These tips are about protecting your system from malicious code and unauthorized digital access.
+
+## Keep Everything Up to Date
+
+Operating System: Enable automatic updates for Windows, macOS, or Linux. Security patches fix vulnerabilities that hackers can exploit.
+
+Applications: Regularly update all your software, including web browsers, productivity suites, and third-party apps. Older versions often have known security flaws.
+
+## Use and Maintain Antivirus/Antimalware Software
+
+Installation: Install a reputable antivirus suite and keep its virus definitions updated. While operating systems have built-in protection (e.g., Windows Defender), third-party solutions can offer more comprehensive protection.
+
+Enable Your Firewall: Your operating system's built-in firewall is essential. It controls incoming and outgoing network traffic, preventing unauthorized connections to and from your computer.
+
+## Browse and Communicate Securely
+
+HTTPS Only: Always check that websites use HTTPS (indicated by a padlock icon in your browser's address bar) before entering any personal information.
+
+Be Wary of Phishing: Don't click on links or open attachments in suspicious emails or text messages. A legitimate company will never ask for your password or personal information via email.
+
+!> learn more about scams and phishing [here](/RiskThreat/SocialEngineering.md)
+
+## Manage Your User Accounts
+
+Standard User Accounts: Use a standard (non-administrator) user account for your daily activities. Admin accounts have full control and are a greater risk if compromised.
+
+Guest Accounts: Only create guest accounts for temporary users, and ensure they have limited access to your files and settings.
+
+## Password Management
+
+Password Manager: Use a reputable password manager to store and generate complex passwords. This tool is a cornerstone of modern cybersecurity.
+
+!> learn more about password management [here](/Guides/Password/PasswordManager.md)
+
+## Back Up Your Data
+
+Regular Backups: Regularly back up your important files to an external hard drive or a secure cloud service. This won't prevent a security breach, but it will allow you to recover from one (e.g., a ransomware attack) without losing all your data.
 
 
-## Secure Your Wi-Fi Network
-
-- **Password protect:** Always use a strong, unique password for your home Wi-Fi network.
-- **WPA2/WPA3 encryption:** Ensure your router is using WPA2 or, even better, WPA3 encryption. Avoid older, less secure protocols like WEP or WPA.
-- **Change default credentials:** If you haven't already, change the default administrator username and password for your router, network devices (i.e. storage, IP camera, IoT)
-
-### Location Services: Control Your Digital Footprint
-
-Location services allow apps to access your device's GPS. While convenient, unchecked access can expose more information than you intend to tech companies, or publicly through geotagged social media posts.
-
-**Key Risks:**
-
-- **Privacy Leaks:** Your precise location data can reveal your home or work address.
-- **Security Vulnerabilities:** Publicly sharing your location can inadvertently signal to potential thieves that your home is unoccupied.
-- **Unwanted Encounters:** Real-time location sharing might lead to unintended public meet-ups.
-
-**Recommendations:**
-
-- **Review App Access:**
-    - **iOS:** Go to **Settings > Privacy & Security > Location Services**.
-    - **Android:** Go to **Settings > Location > App location permissions** (or similar, depending on your Android version/manufacturer overlay). You may also long-press an app icon, tap "App info," then "Permissions."
-
-- **Limit "Always" Access:** Very few apps truly need "Always" access. Most function perfectly well with "While Using the App" (iOS) or "Allow only while using the app" (Android). For Android, you may also see "Ask every time."
-- **Geotagging Photos:** Be aware that most photos are geotagged by default, embedding location data into their metadata. This information can be published by social media sites. If you prefer not to have photos geotagged, adjust your camera settings or disable location access for your camera app.
-    - **iOS:** In Location Services, find "Camera" and set it to "Never."
-    - **Android:** Go to your Camera app's settings, look for a "Location tags," "Geotag," or "Save location" option and turn it off.
-- **Personalize Settings:** Explore the full range of options in Location Services to balance convenience with your desired level of privacy.
-    
-
-### Access to Contacts: Guard Your Network
-
-Many apps request access to your contacts, often more than is necessary. This is primarily a privacy concern, but it can have unexpected consequences.
-
-**Key Risks:**
-
-- **Unintended Connections:** If a social media account syncs with your contacts, it might immediately notify your connections, even if you're not ready to publicly broadcast your presence.    
-- **Data Breach Vulnerability:** If a social media site storing your contacts is hacked, your entire contact list could become public.
-
-**Recommendation:**
-
-- **Manage Permissions:**
-    - **iOS:** Navigate to **Settings > Privacy & Security > Contacts**.
-    - **Android:** Go to **Settings > Security & privacy > Privacy > Permission manager**, then select "Contacts" (or similar paths like **Settings > Apps > [App Name] > Permissions**).
-- Review and remove contact access for any apps that don't genuinely need it. It's a personal preference, but often, less access is more secure.
 
 
-### Limit Ad Tracking: Enhance Your Privacy
 
-This setting helps reduce the amount of personal data collected for targeted advertising.
-
-**Recommendation:**
-
-- **Enable Limitation:**
-    - **iOS:** Go to **Settings > Privacy & Security > Tracking** and toggle off "Allow Apps to Request to Track." For older iOS versions, you might find "Limit Ad Tracking" under **Settings > Privacy > Apple Advertising**.
-    - **Android:** Go to **Settings > Google > Ads** and enable "Opt out of Ads Personalization." You may also see an option to "Reset advertising ID" which can provide an additional layer of privacy.
-
-
-### Data Accessible Outside the Lock Screen: Control Public Visibility
-
-Take a moment to decide what information is visible when your phone is locked.
-
-**Key Areas to Review:**
-
-- **Control Center / Quick Settings:**
-    - **iOS (Control Center):** iOS's "Control Center" can be accessed from the lock screen, offering functions like calendar and directions. To disable this, go to **Settings > Face ID & Passcode (or Touch ID & Passcode) > Allow Access When Locked** and disable "Control Center."
-    - **Android (Quick Settings/Device Controls):** Android phones typically allow access to quick settings (Wi-Fi, Bluetooth, flashlight) from the lock screen by swiping down. While generally safe, some device manufacturers might include more sensitive controls. Review your lock screen settings under **Settings > Display > Lock screen display** or **Settings > Notifications > Notifications on lock screen** to see available options.
-- **Notification Content:** Consider whether you're comfortable with text messages, emails, or other app content showing in notifications on your lock screen.
-    - **iOS:**
-        - To adjust this generally: Go to **Settings > Notifications > Show Previews** and choose "When Unlocked" or "Never."
-        - For individual apps (e.g., Messages): Go to **Settings > Notifications > Messages > Show Previews** and adjust as desired.
-    - **Android:**
-        - Go to **Settings > Notifications > Notifications on lock screen** (or **Settings > Security & privacy > More security & privacy > Notifications on lock screen**).
-        - You can often choose to "Show sensitive content only when unlocked," "Hide silent conversations and notifications," or "Don't show notifications at all."
-        - To change for individual apps: Go to **Settings > Notifications > App notifications**, select the app, and adjust its lock screen notification settings.
-
-By actively managing these settings, you can tailor your phone's privacy to your comfort level, ensuring your personal data remains as secure as you desire, whether you're on an Android or iOS device.
 

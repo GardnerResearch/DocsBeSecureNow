@@ -29,4 +29,4 @@ Here are some well-regarded password managers to consider:
 
 [1Password](https://1password.com/pricing/password-manager?currency=usd): Known for its user-friendly interface and a wide array of premium features like "Watchtower" for security alerts and a "Travel Mode" for secure travel. It doesn't have a free plan but offers a free trial.
 
-[ProtonPass](https://proton.me/pass):Proton Pass is a password manager developed by the privacy-focused team behind Proton Mail, offering end-to-end, "zero-knowledge" encryption. It includes a built-in authenticator and a unique "hide-my-email" feature to protect your real email address.
+[ProtonPass](https://proton.me/pass): Proton Pass is a password manager developed by the privacy-focused team behind Proton Mail, offering end-to-end, "zero-knowledge" encryption. It includes a built-in authenticator and a unique "hide-my-email" feature to protect your real email address.

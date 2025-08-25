@@ -11,4 +11,5 @@
     * [Password](/Guides/Password/Password.md)
     * [Devices and Software](/Guides/Devices/DevicesAndSoftware.md)
     * [Others](/Guides/Others.md)
+* [Help Me!](/Help/Help.md)
 * [References](References.md)

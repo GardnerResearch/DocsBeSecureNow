@@ -7,4 +7,5 @@
         * [About Password Manager](/Guides/Password/PasswordManager.md#about-password-manager)
     * [Devices and Software](/Guides/Devices/DevicesAndSoftware.md#devices-and-software)
     * [Others](/Guides/Others.md)
+* [Help Me!](/Help/Help.md)
 * [References](References.md)

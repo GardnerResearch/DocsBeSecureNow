@@ -1,6 +1,6 @@
 # BeSecure
 
-> BeSecure.fyi is a *simple* guide to *be* cyber *secure*, *now*.
+BeSecure.fyi is a **simple** guide to **be** cyber **secure**.
 
 Understand the risks [here](/RiskThreat/RiskThreat.md) or go directly to the guides [here](/Guides/Guide.md)
 

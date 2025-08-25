@@ -8,4 +8,5 @@
         * [Hardware](/Guides/Devices/DevicesAndSoftware.md#security-tips-for-your-computer-the-hardware)
         * [Software](/Guides/Devices/DevicesAndSoftware.md#security-tips-for-your-software-the-digital-layer)
     * [Others](/Guides/Others.md)
+* [Help Me!](/Help/Help.md)
 * [References](References.md)

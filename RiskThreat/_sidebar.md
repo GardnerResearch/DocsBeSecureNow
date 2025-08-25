@@ -1,4 +1,6 @@
 * [Home](/)
 * [Risk and Threats](/RiskThreat/RiskThreat.md)
+    * [Scams](/RiskThreat/Scams.md)
 * [Guide](/Guides/Guide.md)
+* [Help Me!](/Help/Help.md)
 * [References](References.md)
